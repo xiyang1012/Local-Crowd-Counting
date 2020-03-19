@@ -1,17 +1,17 @@
-# Adaptive Mixture Regression Network with Local Counting Map for Crowd Counting
+## Adaptive Mixture Regression Network with Local Counting Map for Crowd Counting
 
 By Xiyang Liu, Jie Yang, Tieqiang Wang, Wenrui Ding
 
-## Introduction
+### Introduction
 
-## Installation
+### Installation
 
-## Datasets
+### Datasets
 
-## Training
+### Training
 
-## Evaluation
+### Evaluation
 
-## Models
+### Models
 
-## References
+### References
