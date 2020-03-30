@@ -2,6 +2,8 @@
 
 By Xiyang Liu, Jie Yang, Tieqiang Wang, Wenrui Ding
 
+More code and models will be released soon. Stay tuned.
+
 ### Introduction
 
 In this work, we introduce a new learning target named local counting map, and
