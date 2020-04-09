@@ -47,7 +47,6 @@ img_transform = standard_transforms.Compose([
 
 ''' result save path '''
 exp_name = './test_res'
-#os.path.join('./test_res', model_net + '_' + data_mode)
 if not os.path.exists(exp_name):
     os.mkdir(exp_name)
 exp_name = os.path.join('./test_res', data_mode + '_' + model_net)
