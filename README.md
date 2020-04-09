@@ -11,9 +11,11 @@ It reports marked improvements in counting accuracy and the stability of the
 training phase, and achieves the start-of-the-art performances on several author-
 itative datasets. For more details, please refer to our [arXiv paper]().
 
+### Framework
 <img src="doc/framework.jpg" width=800>
 
-<img src="doc/demo.jpg" width=600>
+### Demo
+<img src="doc/demo.jpg" width=800>
 
 ### Getting Started
 - Prerequisites
