@@ -15,7 +15,7 @@ itative datasets. For more details, please refer to our [arXiv paper]().
 <img src="doc/framework.jpg" width=800>
 
 ### Demo
-<img src="doc/demo.jpg" width=700>
+<img src="doc/demo.jpg" width=800>
 
 ### Getting Started
 - Prerequisites
