@@ -1,5 +1,4 @@
 # Adaptive Mixture Regression Network with Local Counting Map for Crowd Counting
-By Xiyang Liu, Jie Yang, Tieqiang Wang, Wenrui Ding
 
 More code and models will be released soon. Stay tuned.
 
