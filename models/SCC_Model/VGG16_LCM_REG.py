@@ -27,7 +27,7 @@ class VGG16_LCM_REG(nn.Module):
         self.lambda_i = lambda_i
         self.lambda_k = lambda_k
         self.count_range = count_range
-        self.multi_fuse = False
+        self.multi_fuse = True
         self.soft_interval = True
 
         self.layer3 = self.VGG_make_layers([64, 64, 'M', 128, 128, 'M', 256, 256, 256, 'M', 512, 512, 512])
