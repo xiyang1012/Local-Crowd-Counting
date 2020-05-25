@@ -20,7 +20,7 @@ __C.SHHAPATCHMAX = 100.
 __C.QNRFPATCHMAX = 100.
 __C.CC50PATCHMAX = 100.
                             # testing model path
-__C.MODEL_PATH = './exp/QNRF_mae_71.63_mse_116.86.pth'
+__C.MODEL_PATH = './exp/QNRF_mae_86.61_mse_152.19.pth'
 
 __C.LOG_PARA = 100.
 
