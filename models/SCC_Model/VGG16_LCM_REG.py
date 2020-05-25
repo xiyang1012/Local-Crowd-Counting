@@ -19,7 +19,7 @@ elif data_mode is 'UCF50':
     patch_max = cfg.CC50PATCHMAX
 
 class VGG16_LCM_REG(nn.Module):
-    def __init__(self, load_weights=True, stage_num=[3,3,3], count_range=patch_max, lambda_i=1., lambda_k=1.):
+    def __init__(self, load_weights=False, stage_num=[3,3,3], count_range=patch_max, lambda_i=1., lambda_k=1.):
         super(VGG16_LCM_REG, self).__init__()
 
         # cfg
