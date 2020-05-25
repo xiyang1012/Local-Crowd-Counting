@@ -15,8 +15,12 @@ __C.NET = 'VGG16_LCM_REG' 	# net selection as train_config.py
 
 __C.DATASET = 'QNRF' 	    # SHHA, SHHB, QNRF, UCF50
 
+__C.SHHBPATCHMAX = 30.
+__C.SHHAPATCHMAX = 100.
+__C.QNRFPATCHMAX = 100.
+__C.CC50PATCHMAX = 100.
                             # testing model path
-__C.MODEL_PATH = './exp/03-11_17-51_SHHA_VGG16_DM_1e-05/all_ep_218_mae_71.63_mse_116.86.pth'
+__C.MODEL_PATH = './exp/QNRF_mae_71.63_mse_116.86.pth'
 
 __C.LOG_PARA = 100.
 

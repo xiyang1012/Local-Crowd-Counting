@@ -6,7 +6,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from torchvision import models
-from train_config import cfg
+from test_config import cfg
 
 data_mode = cfg.DATASET
 if data_mode is 'SHHA':

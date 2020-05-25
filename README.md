@@ -58,7 +58,7 @@ Google Drive: [download link](https://drive.google.com/open?id=1btZa7ltAwqQe0CDa
 Baidu Yun: [download link](https://pan.baidu.com/s/1humECw3oz4xRbWy5CaakZQ) (key: pe2r) 
 
 ### Testing
-- set the parameters in ```test_config.py```
+- set the parameters (such as MODEL_PATH) in ```test_config.py```
 - run ```python test.py```.
 
 ### Training

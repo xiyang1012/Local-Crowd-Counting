@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import pdb
-from train_config import cfg
+from test_config import cfg
 
 
 class CrowdCounter(nn.Module):
