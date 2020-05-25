@@ -29,7 +29,7 @@ itative datasets. For more details, please refer to our [arXiv paper](https://ar
 ShanghaiTech: [[home link](https://pan.baidu.com/s/1nuAYslz)], 
 UCF-CC-50: [[home link](http://crcv.ucf.edu/data/ucf-cc-50/)]
 
-- Pretrained Model
+- Pretrained Model (Only for Training)
   - Some Counting Networks (such as VGG, CSRNet and so on) adopt the pre-trained models on ImageNet.
     Download ```vgg16-397923af.pth``` from ```torchvision.models```.
   - Place the pre-trained model to ```./models/Pretrain_model/```. 
