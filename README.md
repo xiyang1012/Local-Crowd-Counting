@@ -1,6 +1,5 @@
 # Adaptive Mixture Regression Network with Local Counting Map for Crowd Counting
 
-More code and models will be released soon. Stay tuned.
 
 ### Introduction
 In this work, we introduce a new learning target named local counting map, and
