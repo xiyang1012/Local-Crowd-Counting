@@ -1,4 +1,4 @@
-# Adaptive Mixture Regression Network with Local Counting Map for Crowd Counting
+# ECCV2020: Adaptive Mixture Regression Network with Local Counting Map for Crowd Counting
 
 
 ### Introduction
@@ -57,12 +57,14 @@ QNRF-model (MAE/MSE: 86.6/152.1):
 Google Drive: [download link](https://drive.google.com/open?id=1btZa7ltAwqQe0CDa41P67EtTdY0iJOfh),
 Baidu Yun: [download link](https://pan.baidu.com/s/1humECw3oz4xRbWy5CaakZQ) (key: pe2r) 
 
-### Testing
-- set the parameters (such as MODEL_PATH) in ```test_config.py```
-- run ```python test.py```.
+### Demo Testing
+- put test images in ```./demo_image```.
+- run ```python demo.py```.
+- results are saved at ```./demo_image/result```.
 
-### Training
-coming soon.
+### Dataset Testing
+- set the parameters (such as MODEL_PATH) in ```test_config.py```.
+- run ```python test.py```.
 
 ### References
 https://github.com/gjy3035/C-3-Framework
