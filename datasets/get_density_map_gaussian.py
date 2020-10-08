@@ -7,7 +7,7 @@ from math import floor
 def get_density_map_gaussian(img, points, k_size, sigma):
 
     # points (w, h)
-    [w, h, c] = img.shape
+    [h, w, c] = img.shape
     im_density = np.zeros((h, w), dtype=float)
 
     if len(points) == 0:
